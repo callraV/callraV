@@ -1,6 +1,6 @@
 ## Computer science student. Self-taught artist. Coffee addict.
 
-Areas of interest:
+Areas of interest:<br>
 🌐Web development<br>
 🎮Game development<br>
 🔢Machine learning<br>
