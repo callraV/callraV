@@ -11,7 +11,7 @@ React.js
 Node.js
 Python
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="30" height="30">](https://www.linkedin.com/in/callista-aura-vanya/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="45" height="45">](https://www.linkedin.com/in/callista-aura-vanya/)
 
 <!--
 **callraV/callraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
