@@ -2,12 +2,12 @@
  <a href="https://www.linkedin.com/in/callista-aura-vanya/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="35" height="35"></a>
 
 
-### Areas of interest:<br>
+**Areas of interest:**<br><br>
   🌐Web development<br>
   🎮Game development<br>
   🔢Machine learning<br>
 <br>
-### Currently working with:<br>
+**Currently working with:**<br><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="45" height="45"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="45">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="80" height="45">
