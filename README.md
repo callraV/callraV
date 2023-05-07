@@ -5,7 +5,7 @@ Areas of interest:<br>
 🎮Game development<br>
 🔢Machine learning<br>
 
-Currently working with:
+Currently working with:<br>
 *Javascript<br>
 *React.js<br>
 *Node.js<br>
