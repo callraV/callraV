@@ -1,4 +1,19 @@
-### Hi there 👋
+##Computer science student. Self-taught artist. Coffee addict.
+
+Areas of interest:
+```
+🌐Web development
+🎮Game development
+🔢Machine learning
+```
+
+Currently working with:
+```
+Javascript
+React.js
+Node.js
+Python
+```
 
 <!--
 **callraV/callraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
