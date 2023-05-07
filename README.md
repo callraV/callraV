@@ -1,4 +1,4 @@
-##Computer science student. Self-taught artist. Coffee addict.
+## Computer science student. Self-taught artist. Coffee addict.
 
 Areas of interest:
 ```
