@@ -1,15 +1,15 @@
 ## Computer science student. Self-taught artist. Coffee addict.
 
 Areas of interest:
--🌐Web development
--🎮Game development
--🔢Machine learning
+🌐Web development<br>
+🎮Game development<br>
+🔢Machine learning<br>
 
 Currently working with:
-*Javascript
-*React.js
-*Node.js
-*Python
+*Javascript<br>
+*React.js<br>
+*Node.js<br>
+*Python<br>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="45" height="45">](https://www.linkedin.com/in/callista-aura-vanya/)
 
