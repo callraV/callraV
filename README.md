@@ -1,4 +1,4 @@
-# Computer science student. Self-taught artist. Coffee addict. ☕
+# Comp sci student. Self-taught artist. Coffee addict. ☕
  <a href="https://www.linkedin.com/in/callista-aura-vanya/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="35" height="35"></a>
 
 
