@@ -1,6 +1,6 @@
 ## Computer science student. Self-taught artist. Coffee addict.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="10" height="10">](https://www.linkedin.com/in/callista-aura-vanya/).
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="100" height="100">](https://www.linkedin.com/in/callista-aura-vanya/).
 
 Areas of interest:
 🌐Web development
