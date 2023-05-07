@@ -1,4 +1,4 @@
-## Computer science student. Self-taught artist. Coffee addict.
+## Computer science student. Self-taught artist. Coffee addict. ☕
 
 **Areas of interest:**<br>
   🌐Web development<br>
@@ -6,7 +6,7 @@
   🔢Machine learning<br>
 
 **Currently working with:**<br>
-  Javascript<br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="45" height="45"><br>
   React.js<br>
   Node.js<br>
   Python<br>
