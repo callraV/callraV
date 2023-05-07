@@ -1,9 +1,9 @@
 ## Computer science student. Self-taught artist. Coffee addict.
 
 Areas of interest:
-*🌐Web development
-*🎮Game development
-*🔢Machine learning
+-🌐Web development
+-🎮Game development
+-🔢Machine learning
 
 Currently working with:
 *Javascript
