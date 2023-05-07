@@ -2,7 +2,7 @@
  <a href="https://www.linkedin.com/in/callista-aura-vanya/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="35" height="35"></a>
 
 
-**Areas of interest:**<br>
+**Areas of interest:**<br><br>
   🌐Web development<br>
   🎮Game development<br>
   🔢Machine learning<br>
