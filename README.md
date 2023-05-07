@@ -1,7 +1,5 @@
 ## Computer science student. Self-taught artist. Coffee addict.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50" height="50">](https://www.linkedin.com/in/callista-aura-vanya/).
-
 Areas of interest:
 🌐Web development
 🎮Game development
@@ -12,6 +10,8 @@ Javascript
 React.js
 Node.js
 Python
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="50" height="50">](https://www.linkedin.com/in/callista-aura-vanya/).
 
 <!--
 **callraV/callraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
