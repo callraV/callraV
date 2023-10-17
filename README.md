@@ -5,6 +5,7 @@
 
 **Areas of interest:**<br><br>
   🌐Web development<br>
+  📱App development<br>
   🎮Game development<br>
   🔢Machine learning<br>
 <br>
