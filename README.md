@@ -5,7 +5,6 @@
 
 **Areas of interest:**<br><br>
   🌐Web development<br>
-<!--  📱App development<br> -->
   🎮Game development<br>
   🔢Machine learning<br>
 <br>
@@ -18,7 +17,7 @@
  
 
  <br>
-
+<!--  📱App development<br> -->
 <!--
 **callraV/callraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
