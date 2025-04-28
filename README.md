@@ -1,12 +1,11 @@
-# Software engineer. Designer. Coffee addict. 
+# Software engineer. Illustrator. Sometimes DnD Cleric. 
 <a href="https://www.linkedin.com/in/callista-aura-vanya/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" width="32" height="32"> </a>
 <!--  <a href="https://www.hackerrank.com/callraV"><img src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" width="32" height="32"></a>
   -->
 
 **Areas of interest:**<br><br>
-  🌐Web development<br>
-  🎮Game development<br>
   🔢Machine learning<br>
+  🌐Web development<br>
 <br>
 **Currently working with:**<br>
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="45" height="45">  -->
