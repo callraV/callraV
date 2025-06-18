@@ -3,7 +3,7 @@
 <!--  <a href="https://www.hackerrank.com/callraV"><img src="https://gitlab.com/uploads/-/system/project/avatar/39393275/hackerrank.jpg" width="32" height="32"></a>
   -->
 
-**Areas of interest:**<br><br>
+**Areas of interest:**<br>
   🤖Gen AI<br>
   🔗Agentic AI<br>
   🔢Machine learning<br>
