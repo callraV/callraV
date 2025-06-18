@@ -4,15 +4,12 @@
   -->
 
 **Areas of interest:**<br><br>
+  🤖Gen AI<br>
+  🔗Agentc AI<br>
   🔢Machine learning<br>
   🌐Web development<br>
 <br>
-**Currently working with:**<br>
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="45" height="45">  -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="45"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="80" height="45"><img src="https://miro.medium.com/v2/resize:fit:438/1*0G5zu7CnXdMT9pGbYUTQLQ.png" width="115" height="60">
- 
 
- <br>
 <!--  📱App development<br> -->
 <!--
 **callraV/callraV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
