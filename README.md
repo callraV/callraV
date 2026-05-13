@@ -1,11 +1,14 @@
-# Software engineer. AI Practitioner. Sometimes D&D Cleric. 
+# Developer. AI Engineer. Sometimes D&D Cleric.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callista-aura-vanya/)
 
 **Areas of interest:**<br>
-  🤖Gen AI<br>
-  🔗Agentic AI<br>
+  🤖GenAI<br>
+  🔗AI Agents<br>
   🔢Machine learning<br>
   🌐Web development<br>
 <br>
+
 
 <!--  📱App development<br> -->
 <!--
